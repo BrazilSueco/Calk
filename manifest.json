@@ -8,3 +8,12 @@
     }
   ]
 }
+/* Absolute URLs */
+"start_url": "https://brazilsueco.github.io/Calc"
+"start_url": "http://calk.appx.ro"
+
+/* Relative URLs */
+"start_url": "/"
+"start_url": "../index.html"
+
+"display": "fullscreen"
